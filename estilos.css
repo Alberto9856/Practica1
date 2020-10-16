@@ -1,0 +1,97 @@
+body{
+  background-color: black;
+  font-family: arial;
+  text-align: center;
+  font-size: .6em;
+}
+p,h2{
+  color:black;
+}
+header{
+  width: 300px;
+  margin: auto;
+  color: White;
+}
+.contentPrincipal{
+  width: 440px;
+  height: 685px;
+  margin: auto;
+}
+.izquierdo{
+  width: 50%;
+  background-color: rgb(195,213,237);
+  float: left;
+  height: 100%;
+}
+.derecho{
+  width: 50%;
+  background-color: rgb(255, 255, 252);
+  float: right;
+  height: 100%;
+}
+figure{
+  width: 100%;
+  margin-left: 0px;
+}
+img{
+  width: 117px;
+  height: 121px;
+  margin: auto;
+}
+figcaption{
+  font-weight: bold;
+}
+span#letraLigera{
+  display: block;
+  font-weight:lighter;
+  font-size: .8em;
+}
+/*  */
+
+div.contentPrincipal section{
+  width: 80%;
+  height: 70%;
+  margin: auto;
+  margin-top:
+}
+p:nth-child(2){
+  margin-top: 20px;
+}
+#redes{
+  width: 43px;
+  height: 20px;
+}
+.contentInterior{
+  width: 100%;
+  height: 100%;
+}
+.habilidad1{
+  width: 50%;
+  background-color: rgb(195,213,237);
+  float: left;
+  height: 80%;
+}
+.habilidad2{
+  width: 50%;
+  background-color: rgb(195,213,237);
+  float: right;
+  height: 80%;
+}
+li{
+  margin-bottom: 20px;
+}
+
+
+/* DERECHA */
+div.derecho section{
+  width: 80%;
+  margin: auto;
+  margin-left: 20px;
+  text-align: left;
+}
+article.uno{
+  margin-top: 30px;
+}
+article.dos{
+
+}
